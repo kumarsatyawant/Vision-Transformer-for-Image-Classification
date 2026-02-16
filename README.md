@@ -8,17 +8,12 @@
 Network:
 ------- 
 
-<figure style="text-align:center; margin:0">
-  <img src="figures/5_ViT.png"
-       alt="Schematic representation of the ViT network"
-       style="display:inline-block; width:auto; max-width:100%; height:auto;"/>
-  <figcaption style="text-align:center; margin-top:0.5em;">
-    Fig. 1. The schematic representation of the ViT network. The Image source is taken from
-    <a href="https://arxiv.org/abs/2010.11929" target="_blank" rel="noopener noreferrer">
+<p align="center">
+  <img src="figures/5_ViT.png" alt="Schematic representation of the ViT network" /><br/>
+  Fig. 1. The schematic representation of the ViT network. The Image source is taken from <a href="https://arxiv.org/abs/2010.11929" target="_blank" rel="noopener noreferrer">
       AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
     </a>.
-  </figcaption>
-</figure>
+</p>
 
 Results:
 -----------------------------------------
